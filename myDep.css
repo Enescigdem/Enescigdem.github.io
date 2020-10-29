@@ -1,0 +1,17 @@
+a{
+	text-decoration:none;
+	color: red;
+}
+
+body{
+	background-image:url("background.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+}
+table{
+	background:#66FFFF ;
+	opacity:0.8;
+	margin:210px 250px;
+	color:#3366FF;
+	width:70%;
+}
