@@ -1,0 +1,10 @@
+a{
+	text-decoration:none;
+	color: red;
+}
+
+body{
+	background-image:url("background.jpg");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+}
